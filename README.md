@@ -2,7 +2,7 @@ ShadowsandLight.Dec
 ===================
 
 Newletter
-$ mkdir ~/Shadows & Light
+$ mkdir ~/shadowsandlight
 # Creates a directory for your project called "Shadows & Light" in your user directory
 
 
