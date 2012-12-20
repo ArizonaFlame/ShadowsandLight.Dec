@@ -23,7 +23,7 @@ $ git add README
 
 git commit -m 'first commit'
 # Commits your files, adding the message "first commit"
-$ git remote add origin https://github.com/shadowsandlight.me/ShadowsandLight.git
+$ git remote add origin https://github.com/reneerobinson217/ShadowsandLight.git
 # Creates a remote named "origin" pointing at your GitHub repo
 
 
